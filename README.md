@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/libgd/libgd.svg?branch=master)](https://travis-ci.org/libgd/libgd)
 [![Build Status](https://scan.coverity.com/projects/3810/badge.svg)](https://scan.coverity.com/projects/libgd)
 [![Chat](https://badges.gitter.im/libgd/libgd.svg)](https://gitter.im/libgd/libgd)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flibgd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flibgd?ref=badge_shield)
 
 GD is an open source code library for the dynamic creation of images by
 programmers.
@@ -44,3 +45,7 @@ It also has optional support for more formats via external libraries:
 * [TIFF](https://en.wikipedia.org/wiki/Tagged_Image_File_Format) via [libtiff](http://www.remotesensing.org/libtiff/)
 * [WebP](https://en.wikipedia.org/wiki/WebP) via [libwebp](https://developers.google.com/speed/webp/)
 * [XPM](https://en.wikipedia.org/wiki/X_PixMap) via [libXpm](http://xorg.freedesktop.org/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flibgd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flibgd?ref=badge_large)
